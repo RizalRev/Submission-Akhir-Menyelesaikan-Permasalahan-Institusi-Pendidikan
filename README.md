@@ -13,9 +13,3 @@ Tuliskan cakupan proyek yang akan dikerjakan.
 Sumber data:
 
 https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv
-Setup environment:
-
-conda create --name main-ds python=3.9
-conda activate main-ds
-pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
-jupyter-notebook
